@@ -10,6 +10,10 @@ echo $twig->render('products.html.twig', ['products' => $products]);
 
 echo $twig->render('home.html.twig');
 
+echo $twig->render('_footer.html.twig');
+
+
+
 
 
 
